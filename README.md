@@ -12,7 +12,7 @@
 * sidewalk: for pedestrians to walk
 * vegetation: trees, vegetations that human cannot walk on
 * grass: grass where people can walk on
-* terran: mud
+* terrain: mud
 * pole: for street lamps and other objects resemble that
 * building: windows, walls, buildings, fences
 * vehicle: cars, vans, trucks
