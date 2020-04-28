@@ -10,7 +10,7 @@
 #### Pre-exist Labels
 * road: road where vehicles move on
 * sidewalk: for pedestrians to walk
-* vegetation: trees, vegetations that human cannot walk on
+* vegetation: trees, bushes, brush, tall weeds, or tall grass on which humans cannot walk or would have difficulty walking (tangled feet)
 * grass: grass where people can walk on
 * terrain: mud, dirt
 * pole: for street lamps and other objects resemble that
@@ -23,6 +23,9 @@
 * water
 * stairs  
 #### New Labels
+* crosswalk
+* fallen logs
 * gravel
+* rock: big enough that humans cannot walk or would have difficulty walking (tangled feet)
 
 ### Examples
