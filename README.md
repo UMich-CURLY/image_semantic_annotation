@@ -7,7 +7,6 @@
 * Provide a label of each object you outlined. Available labels are given below.
 
 ### Available Labels
-#### Pre-exist Labels
 * road: road where vehicles move on
 * sidewalk: for pedestrians to walk
 * vegetation: trees, bushes, brush, tall weeds, or tall grass on which humans cannot walk or would have difficulty walking (tangled feet)
@@ -21,8 +20,7 @@
 * sky (Don't forget this!)
 * sign: traffic signs
 * water
-* stairs  
-#### New Labels
+* stairs
 * crosswalk
 * fallen logs
 * gravel
