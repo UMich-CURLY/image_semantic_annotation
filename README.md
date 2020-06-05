@@ -25,7 +25,7 @@
 * fallen logs
 * gravel
 * rock: big enough that humans cannot walk or would have difficulty walking (tangled feet)
-* chopped vegetation/deaed grass
+* chopped vegetation/dead grass
 * dirt pile/sand pile
 
 ### Examples
