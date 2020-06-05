@@ -25,6 +25,8 @@
 * fallen logs
 * gravel
 * rock: big enough that humans cannot walk or would have difficulty walking (tangled feet)
+* chopped vegetation/deaed grass
+* dirt pile
 
 ### Examples
 <img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1.jpeg" width="400"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1seg.jpeg" width="400">
