@@ -28,6 +28,9 @@
 * chopped vegetation/dead grass
 * dirt pile/sand pile
 
+### Labeled dataset
+https://drive.google.com/drive/u/1/folders/1-GQz_JzrCxPpMgNLihQzVTCK0yTwKATL
+
 ### Examples
 <img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1.jpeg" width="400"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1seg.jpeg" width="400">
 <img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus2.jpeg" width="400"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus2seg.jpeg" width="400">
