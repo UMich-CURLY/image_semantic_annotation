@@ -29,8 +29,11 @@
 * chopped vegetation/dead grass
 * dirt pile/sand pile
 
-### Labeled dataset
+### Labeled Dataset
 https://drive.google.com/drive/u/1/folders/1-GQz_JzrCxPpMgNLihQzVTCK0yTwKATL
+
+### Corresponding Colors and Labels
+<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/corresponding_colar_label.png" width="800">
 
 ### Examples
 <img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1.png" width="400"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1seg.png" width="400">
