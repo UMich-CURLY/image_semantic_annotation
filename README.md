@@ -34,7 +34,9 @@ https://drive.google.com/drive/u/1/folders/1-GQz_JzrCxPpMgNLihQzVTCK0yTwKATL
 All images in this dataset is mearged into dataset_merged folder including all raw images, segmentation RGB images and segmentation ID images.
 
 ### Corresponding Colors and Labels
+<p align="center">
 <img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/corresponding_colar_label.png" width="840">
+</p>
 
 ### Examples
 <p align="center">
