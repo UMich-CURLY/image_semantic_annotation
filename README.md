@@ -40,26 +40,26 @@ All images in this dataset is mearged into dataset_merged folder including all r
 
 ### Examples
 <p align="center">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1seg.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1id.png" width="280">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1seg.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus1id.png" width="270">
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus2.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus2seg.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus2id.png" width="280">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus2.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus2seg.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus2id.png" width="270">
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus3.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus3seg.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus3id.png" width="280">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus3.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus3seg.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus3id.png" width="270">
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus4.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus4seg.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus4id.png" width="280">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus4.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus4seg.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/campus4id.png" width="270">
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest1.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest1seg.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest1id.png" width="280">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest1.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest1seg.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest1id.png" width="270">
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest2.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest2seg.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest2id.png" width="280">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest2.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest2seg.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest2id.png" width="270">
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest3.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest3seg.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest3id.png" width="280">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest3.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest3seg.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest3id.png" width="270">
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest4.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest4seg.png" width="280"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest4id.png" width="280">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest4.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest4seg.png" width="270"><img src="https://raw.githubusercontent.com/UMich-CURLY/image_semantic_annotation/master/examples/forest4id.png" width="270">
 </p>
