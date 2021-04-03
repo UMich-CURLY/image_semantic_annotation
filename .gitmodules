@@ -1,0 +1,3 @@
+[submodule "semantic-segmentation"]
+	path = semantic-segmentation
+	url = https://github.com/LuoXin0826/semantic-segmentation.git
