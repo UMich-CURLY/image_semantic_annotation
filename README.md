@@ -30,7 +30,7 @@
 * dirt pile/sand pile
 
 ### Labeled Dataset
-https://drive.google.com/drive/u/1/folders/1-GQz_JzrCxPpMgNLihQzVTCK0yTwKATL<br/>
+https://drive.google.com/drive/u/0/folders/1Xnck0EZmYalJooAkZk_YDcIn2toOHOET<br/>
 All images in this dataset is merged into dataset_merged folder including all raw images, segmentation RGB images and segmentation ID images.
 
 ### Corresponding Colors and Labels
